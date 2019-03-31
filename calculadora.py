@@ -23,6 +23,7 @@ def calcular():
 			print("Multiplicação => %d" % (n1 * n2))
 		else:
 			print("Divisão => %.1f" % (n1 / n2))
+			
 	except:
 		print("Opção ou valor inválido !")
 
